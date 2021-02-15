@@ -1,0 +1,1 @@
+Analyze how many users will see the average vandalized wikipedia page before the offending edit is reversed.
